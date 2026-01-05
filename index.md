@@ -1,8 +1,7 @@
-#Datenschutzerklärung 
+# Datenschutzerklärung 
 
 Diese App erhebt keine personenbezogene Daten 
 
-##Verantwortlicher 
+## Verantwortlicher 
 [Dein Name]
 [E-Mail-Adresse]
-Edit
